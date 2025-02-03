@@ -23,26 +23,10 @@ I'm a passionate developer skilled in **C, C++, JavaScript, Python, CSS, and HTM
 
 ### 📬 Get in Touch:
 - 💼 LinkedIn: (https://www.linkedin.com/in/ayush-verma-2b3a48341/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 🌐 Portfolio: (https://ayushverma2909.github.io/My-Portfolio/)
 - 🐦 Twitter: [Your Twitter](https://twitter.com/yourusername)
 - 📸 Instagram: [Your Instagram](https://instagram.com/yourusername)
-- 📂 GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: ayushv2909@gmail.com
 
 Let's connect and build something amazing! 🚀
 
-
-<!--
-**ayushverma2909/ayushverma2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
