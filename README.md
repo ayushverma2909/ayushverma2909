@@ -10,8 +10,6 @@ I'm a passionate developer skilled in **C, C++, JavaScript, Python, CSS, and HTM
 - 🌐 **Web Development** - Frontend and backend development.
 - 📂 **System Programming** - Low-level programming and file management.
 
-### 📌 Current Project:
-- **Bank Management System (C)** - Handling user authentication, file management, and structured data storage.
 
 ### 🌟 Technologies & Tools:
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
