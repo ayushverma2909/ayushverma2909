@@ -51,16 +51,16 @@ Currently, I’m building:
 ### ✍️ Blog Application
 > A full-stack blogging platform with Supabase authentication, auto-draft save, and Markdown editing.
 
-[![🔗 Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-blog-app-live-link.com)
-[![💻 GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/blog-app)
+[![🔗 Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushverma2909.github.io/Blog-App/)
+[![💻 GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushverma2909/Blog-App)
 
 ---
 
 ### 📝 Notes App
 > Create, update, and delete notes securely with authentication. Built using React, Node.js, and Axios.
 
-[![🔗 Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-notes-app-live-link.com)
-[![💻 GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/notes-app)
+[![🔗 Live Demo](https://img.shields.io/badge/-Live%20Demo-0E76A8?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-notes-xi.vercel.app/)
+[![💻 GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushverma2909/Personal-Notes)
 <!--
 ---
 
